@@ -9,5 +9,4 @@ public class EchoGradleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EchoGradleApplication.class, args);
 	}
-
 }
